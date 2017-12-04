@@ -1,6 +1,6 @@
 {
   		"name": "create-thumbs-lambda",
-  		"version": "0.0.2",
+  		"version": "0.0.3",
   		"description": "AWS Lambda function to create an image thumbnail",
   		"main": "CreateThumbnail.js",
   		"dependencies": {
